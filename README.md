@@ -30,4 +30,5 @@ chmod +x ./create_repo.sh
 ```bash
 ./create_repo.sh /path/to/project <repo-name> [--https|--ssh] "<description>"
 # Example: ./create_repo.sh ~/projects/cool-project cool-project --ssh "my super cool project"
+# No remote param defaults to ssh
 ```
