@@ -14,7 +14,7 @@ Before running the script, you need:
 
 1. Git installed
 2. GitHub Personal Access Token - Must have write permissions for Administration
-3. GitHub PAT/SSH key to set remote
+3. Optional: SSH key
 
 ## Usage
 
