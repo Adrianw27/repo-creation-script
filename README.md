@@ -8,8 +8,6 @@ This project contains a Bash script that:
 4. Sets a remote (SSH or HTTPS)  
 5. Pushes the repo to `main`
 
----
-
 ## Prerequisites
 
 Before running the script, you need:
